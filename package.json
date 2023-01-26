@@ -67,3 +67,8 @@
   },
   "target": "web"
 }
+
+"scripts": {
+    "start": "node index.js"
+  },
+
